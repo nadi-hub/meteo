@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
-  background: #b6dbff;
+  background: linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
+  height: 100vh;
 }
 a {
   color: #1759e8;
